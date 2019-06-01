@@ -11,13 +11,13 @@
 - Church
 - Balloons
 
-**Mandelbrot zooming**
-
-![Recordit GIF](http://g.recordit.co/7aoAljTRrS.gif)
-
 **Julia manipulations**
 
 ![Recordit GIF](http://g.recordit.co/wcbL7rhDNf.gif)
+
+**Ballons fractal**
+
+![Screenshot](bubbles.png)
 
 **Church fractal**
 
