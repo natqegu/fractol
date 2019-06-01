@@ -13,33 +13,15 @@
 
 **Mandelbrot zooming**
 
-![Recordit GIF](http://g.recordit.co/IYXi3PE3yt.gif)
-
---
+![Recordit GIF](http://g.recordit.co/7aoAljTRrS.gif)
 
 **Julia manipulations**
 
-![Recordit GIF](http://g.recordit.co/DPphBLlPwu.gif)
-
---
-
-**Tunel zooming**
-
-![Recordit GIF](http://g.recordit.co/NfAYJSDfy8.gif)
-
---
-
-**Ballons fractal**
-
-![Screenshot](bubbles.png)
-
---
+![Recordit GIF](http://g.recordit.co/wcbL7rhDNf.gif)
 
 **Church fractal**
 
 ![Screenshot](church.png)
-
---
 
 **Newtom fractal**
 
