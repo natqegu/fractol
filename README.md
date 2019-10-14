@@ -23,7 +23,7 @@
 
 ![Screenshot](church.png)
 
-**Newtom fractal**
+**Newton fractal**
 
 ![Screenshot](newton.png)
 
